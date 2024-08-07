@@ -1,0 +1,1 @@
+GEN_CSRCS += lv_font_MI_LanTing_Regular_25.c lv_font_montserratMedium_16.c lv_font_MI_LanTing_Regular_12.c lv_font_MI_LanTing_Regular_14.c lv_font_montserratMedium_12.c lv_font_montserratMedium_20.c lv_font_montserratMedium_14.c lv_font_MI_LanTing_Regular_16.c
