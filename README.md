@@ -26,4 +26,6 @@
 通过此界面可以修改AM信号波形的幅度、频率和多径传输相关设置，点击`CHART0`或`CHART1`按钮来更换打表数据，长按`DEBUG`按钮进入开发者模式，此时可以对数据进行二次拟合。   
 ![AM波形设置界面](https://github.com/Floatkyun/2024TI_C/blob/main/img/LVGL_AM.png)  
 
-#### 开发者模式界面 
+#### 开发者模式界面   
+长按`DEBUG`按钮进入开发者模式，在这里可以根据示波器等测量仪器型号的变化来进一步对数据进行拟合，使得输出结果精确到小数点后多位。   
+![开发者模式界面](https://github.com/Floatkyun/2024TI_C/blob/main/img/LVGL_Debug.png)     
